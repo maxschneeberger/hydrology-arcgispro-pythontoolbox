@@ -37,4 +37,5 @@ The toolbox includes two main tools:
 3. Follow the metadata instructions within each tool for parameter setup.  
 
 ## License
+- 📜 MIT License — see [LICENSE](LICENSE)
 
